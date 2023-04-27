@@ -28,7 +28,7 @@ const Hero = () => {
           FavTools.map((tool, index) => {
             return (
               <div className="fav__tech" key={index}>
-                <img src={tool} alt="tool" />
+                <Img src={tool} alt="tool" />
               </div>
             );
           })
