@@ -23,7 +23,7 @@ const About = () => {
           <h1 className="head-text">I am Vinit Patel.</h1>
           <p className="p-text"><span>•</span> I am a Computer Engineering Student in UTU.</p>
           <p className="p-text"><span>•</span> I have worked on various projects as a web Developer as well as a programmer.</p>
-          <p className="p-text"><span>•</span> My field of Interest's are building new  Web Technologies and Products and also in areas related to Web and System Security.</p>
+          <p className="p-text"><span>•</span> My field of Interest &apos; s are building new  Web Technologies and Products and also in areas related to Web and System Security.</p>
           <p className="p-text"><span>•</span> Whenever possible, I also apply my passion for developing Web products with   Html, CSS, Js, PHP and Js frame works likeReact and Next.js</p>
 
 
