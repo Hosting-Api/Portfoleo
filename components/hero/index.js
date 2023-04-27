@@ -1,4 +1,6 @@
 import { AppWrap, MotionWrap } from "../wrapper";
+import Image from 'next/image';
+
 
 const FavTools = [ '/node.png', '/react.png', '/cpp.png', '/python.png', '/java.png'];
 
