@@ -2,7 +2,7 @@ import { AppWrap, MotionWrap } from "../wrapper";
 import Image from 'next/image';
 
 
-const FavTools = [ '../public/node.png', '/react.png', '/cpp.png', '/python.png', '/java.png'];
+const FavTools = [ './public/node.PNG', '/react.png', '/cpp.png', '/python.png', '/java.png'];
 
 const Hero = () => {
 
