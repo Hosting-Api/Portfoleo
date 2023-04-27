@@ -8,7 +8,7 @@ const About = () => {
       <div className="flex__row">
 
         <div className="profile__img">
-          <Image src="https://raw.githubusercontent.com/Hosting-Api/Portfoleo/main/public/profile-pic.jpg"
+          <Image src="profile-pic.JPG"
             alt="profile"
             width={1080}
             height={1080}
