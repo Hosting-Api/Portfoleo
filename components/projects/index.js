@@ -29,12 +29,12 @@ const projects = [
     tags: ["Html", "Css", "Js", "Bootstrap"],
   },
   {
-    title: "Education Website",
-    desc: "A website for students to get information about the courses offered by any Organization.",
-    coverUrl: "../quicklearn.png",
+    title: "Java Programs",
+    desc: "Java Programs  for Beginners.",
+    coverUrl: "/java.png",
     // githubLink: "https://github.com/Vinit-070/",
-    demoLink: "#",
-    tags: ["Html", "Css", "Js", "Bootstrap"],
+    demoLink: "https://replit.com/@vinitpatel2019",
+    tags: ["Java", "OOPs"],
   },
   {
     title: "Python Program",
