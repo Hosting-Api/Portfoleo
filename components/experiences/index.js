@@ -8,7 +8,7 @@ const ExperienceList = [
        company: "Student",
        duration: "Presently",
        desc: "Currently, I don't have professional experience but I have Skills and worked on ",
-       tags: ["Java", "C", "C++", "Node.js", "Python", "React.js", "Next.js", "JavaScript", "Php", ],
+       tags: ["Java", "C", "C++", "Python", "React.js", "Next.js", "JavaScript", "Php", "Bash", "Html", "CSS", "JS", "Bootstrap", "WordPress" ],
      }
 ];
 
