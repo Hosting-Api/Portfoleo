@@ -5,6 +5,7 @@ import "../styles/about.scss";
 import "../styles/projects.scss";
 import "../styles/experiences.scss";
 import "../styles/footer.scss";
+import "../public/java.png";
 
 function MyApp({ Component, pageProps }) {
   
