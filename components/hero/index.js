@@ -1,8 +1,6 @@
 import { AppWrap, MotionWrap } from "../wrapper";
-import Image from 'next/image';
 
-
- const FavTools = [ '/node.PNG','/react.png', '/cpp.png', '/python.png', '/java.png'];
+const FavTools = [ '/node.png', '/react.png', '/cpp.png', '/python.png', '/java.png'];
 
 const Hero = () => {
 
@@ -16,11 +14,11 @@ const Hero = () => {
       <div className="detail-text">
         <p>I am a <span>Software Engineer</span> specialized in both <span>front-end</span> and <span>back-end</span> development across platforms.</p>
         <br />
-        <p>Currently, I am exploring Flask and Django to build full-stack applications.</p>
+        <p>Currently, I am exploring NEXT JS and Node.js to build full-stack applications.</p>
       </div>
 
       <a className="filled-btn"
-        href = "mailto:vinit@example.com?subject=Feedback&body=Message">
+        href = "mailto:abc@example.com?subject=Feedback&body=Message">
               Hire Me
       </a>
        
@@ -30,7 +28,7 @@ const Hero = () => {
           FavTools.map((tool, index) => {
             return (
               <div className="fav__tech" key={index}>
-                <Image src={tool} alt="tool" />
+                <img src={tool} alt="tool" />
               </div>
             );
           })
