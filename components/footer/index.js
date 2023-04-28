@@ -77,7 +77,7 @@ const Footer = () => {
         
      
       </div>
-      
+      <p>© 2023 - All Rights Reserved. Design & Developed by Vinit Patel</p>
     </>
   );
 };
