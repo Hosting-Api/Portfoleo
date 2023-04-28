@@ -1,5 +1,6 @@
 import { BsFillCheckCircleFill } from 'react-icons/bs';
 import { AppWrap, MotionWrap } from "../wrapper";
+import profile from '../../public/profile-pic.jpg';
 import Image from 'next/image';
 
 const About = () => {
@@ -8,7 +9,7 @@ const About = () => {
       <div className="flex__row">
 
         <div className="profile__img">
-          <Image src="./public/profile-pic.JPG"
+          <Image src="{profile}"
             alt="profile"
             width={1080}
             height={1080}
