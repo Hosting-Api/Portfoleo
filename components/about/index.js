@@ -12,7 +12,7 @@ const About = () => {
 
         <div className="profile__img">
           <Image 
-            src="https://github.com/Hosting-Api/Portfoleo/blob/main/public/profile-pic.jpg?raw=true"
+            src="https://shorturl.at/cHKO9"
             // src = {profile}
             alt="prof"
             width={1080}
