@@ -25,7 +25,7 @@ const projects = [
     title: "C++ Programs",
     desc: "C++ Programs  for Beginners With OOP.",
     coverUrl: "/cpp.png",
-    demoLink: "https://replit.com/@vinitpatel2019",
+    demoLink: "https://github.com/Vinit-070/FOP_Journal2022",
     tags: ["C++", "OOPs"],
   },
   {
@@ -33,15 +33,14 @@ const projects = [
     desc: "Java Programs  for Beginners.",
     coverUrl: "/java.png",
     // githubLink: "https://github.com/Vinit-070/",
-    demoLink: "https://replit.com/@vinitpatel2019",
+    demoLink: "https://github.com/Vinit-070/Java_OOPs",
     tags: ["Java", "OOPs"],
   },
   {
     title: "Python Program",
     desc: "Python Programs  for Beginners",
     coverUrl: "/python.png",
-    githubLink: "https://github.com/Vinit-070/Python_Programs_2023",
-    demoLink: "https://replit.com/@vinitpatel2019",
+    demoLink: "https://github.com/Vinit-070/Python_Programs_2023",
     tags: ["Python"],
   }
 ];
@@ -88,7 +87,7 @@ const Projects = () => {
                   </div>
 
                   <a className="outlined-btn" href={project.demoLink} target="_blank" rel="noreferrer">
-                    Demo
+                    View
                   </a>
 
                 </div>
