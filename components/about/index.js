@@ -12,7 +12,7 @@ const About = () => {
 
         <div className="profile__img">
           <Image src="{profile}"
-            alt="profile"
+            alt="prof"
             width={1080}
             height={1080}
             layout="intrinsic"
