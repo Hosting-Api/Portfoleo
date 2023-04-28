@@ -2,7 +2,7 @@ import { AppWrap, MotionWrap } from "../wrapper";
 import Image from 'next/image';
 
 
-// const FavTools = [ '/node.PNG','/react.png', '/cpp.png', '/python.png', '/java.png'];
+ const FavTools = [ '/node.PNG','/react.png', '/cpp.png', '/python.png', '/java.png'];
 
 const Hero = () => {
 
@@ -25,18 +25,18 @@ const Hero = () => {
       </a>
        
 
-//       <div className="fav__techs">
-//         {
-//           FavTools.map((tool, index) => {
-//             return (
-//               <div className="fav__tech" key={index}>
-//                 <Image src={tool} alt="tool" />
-//               </div>
-//             );
-//           })
-//         }
-//       </div>
-//     </div>
+      <div className="fav__techs">
+        {
+          FavTools.map((tool, index) => {
+            return (
+              <div className="fav__tech" key={index}>
+                <Image src={tool} alt="tool" />
+              </div>
+            );
+          })
+        }
+      </div>
+    </div>
   );
 }
 
