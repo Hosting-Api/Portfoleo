@@ -22,7 +22,8 @@ const projects = [
   {
     title: "Education Website",
     desc: "A website for students to get information about the courses offered by any Organization.",
-    coverUrl: "/quicklearn.png",
+    //coverUrl: "/quicklearn.png",
+    coverUrl: "https://raw.githubusercontent.com/Hosting-Api/Portfoleo/main/public/quicklearn.png",
     // githubLink: "https://github.com/Vinit-070/",
     demoLink: "#",
     tags: ["Html", "Css", "Js", "Bootstrap"],
