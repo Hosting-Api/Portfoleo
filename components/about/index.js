@@ -1,7 +1,8 @@
 import { BsFillCheckCircleFill } from 'react-icons/bs';
 import { AppWrap, MotionWrap } from "../wrapper";
-import profile from '../public/profile-pic.jpg';
 import Image from 'next/image';
+import profile from '../public/profile-pic.jpg';
+
 
 const About = () => {
   return (
