@@ -11,14 +11,7 @@ const projects = [
   //   demoLink: "https://github.com/nixrajput/social-media-app-flutter/releases",
   //   tags: ["Flutter", "Dart", "GetX", "REST API"],
   // },
-  // {
-  //   title: "A Social Media API",
-  //   desc: "An open-source RESTful API using Node.js, Express.js and MongoDB to integrate backend and frontend with ease.",
-  //   coverUrl: "/crypto-dev.png",
-  //   githubLink: "https://github.com/nixrajput/social-media-api-nodejs",
-  //   demoLink: "https://social-api.nixlab.co.in",
-  //   tags: ["Node.js", "Express.js", "MongoDB"],
-  // },
+  
   {
     title: "Education Website",
     desc: "A website for students to get information about the courses offered by any Organization.",
@@ -27,6 +20,13 @@ const projects = [
     // githubLink: "https://github.com/Vinit-070/",
     demoLink: "#",
     tags: ["Html", "Css", "Js", "Bootstrap"],
+  },
+  {
+    title: "C++ Programs",
+    desc: "C++ Programs  for Beginners With OOP.",
+    coverUrl: "/cpp.png",
+    demoLink: "https://replit.com/@vinitpatel2019",
+    tags: ["C++", "OOPs"],
   },
   {
     title: "Java Programs",
