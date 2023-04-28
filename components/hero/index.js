@@ -25,18 +25,18 @@ const Hero = () => {
       </a>
        
 
-      <div className="fav__techs">
-        {
-          FavTools.map((tool, index) => {
-            return (
-              <div className="fav__tech" key={index}>
-                <Image src={tool} alt="tool" />
-              </div>
-            );
-          })
-        }
-      </div>
-    </div>
+//       <div className="fav__techs">
+//         {
+//           FavTools.map((tool, index) => {
+//             return (
+//               <div className="fav__tech" key={index}>
+//                 <Image src={tool} alt="tool" />
+//               </div>
+//             );
+//           })
+//         }
+//       </div>
+//     </div>
   );
 }
 
