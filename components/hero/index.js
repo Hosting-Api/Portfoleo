@@ -2,7 +2,7 @@ import { AppWrap, MotionWrap } from "../wrapper";
 import Image from 'next/image';
 
 
-const FavTools = [ '/node.PNG','/react.png', '/cpp.png', '/python.png', '/java.png'];
+// const FavTools = [ '/node.PNG','/react.png', '/cpp.png', '/python.png', '/java.png'];
 
 const Hero = () => {
 
@@ -16,11 +16,11 @@ const Hero = () => {
       <div className="detail-text">
         <p>I am a <span>Software Engineer</span> specialized in both <span>front-end</span> and <span>back-end</span> development across platforms.</p>
         <br />
-        <p>Currently, I am exploring Flutter and Node.js to build full-stack applications.</p>
+        <p>Currently, I am exploring Flask and Django to build full-stack applications.</p>
       </div>
 
       <a className="filled-btn"
-        href = "mailto:abc@example.com?subject=Feedback&body=Message">
+        href = "mailto:vinit@example.com?subject=Feedback&body=Message">
               Hire Me
       </a>
        
