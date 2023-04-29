@@ -20,7 +20,7 @@ const Hero = () => {
     <a className="filled-btn"
 //         href = "mailto:vinitpatel2019@gmail.com?subject=Hiring&body=I want to hire you">
         href = "/resume.pdf">
-              View my Resume
+              View my Resume 
       </a>
     <br></br>
     
