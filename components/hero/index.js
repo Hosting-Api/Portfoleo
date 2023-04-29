@@ -16,10 +16,15 @@ const Hero = () => {
         <br />
         <p>Currently, I am exploring Flask and Django to build full-stack applications.</p>
       </div>
-
-      <a className="filled-btn"
+    
+    <a className="filled-btn"
 //         href = "mailto:vinitpatel2019@gmail.com?subject=Hiring&body=I want to hire you">
         href = "/resume.png">
+              View my Resume
+      </a>
+    
+     <a className="filled-btn"
+        href = "mailto:vinitpatel2019@gmail.com?subject=Hiring&body=I want to hire you">
               Hire Me
       </a>
        
