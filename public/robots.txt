@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://vinitservers.ml
+
+# Sitemaps
+Sitemap: https://vinitservers.ml/sitemap.xml
