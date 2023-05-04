@@ -6,4 +6,5 @@ Allow: /
 Host: https://vinitservers.ml
 
 # Sitemaps
-Sitemap: https://vinitservers.ml/sitemap.xml
+# Sitemap: https://vinitservers.ml/sitemap.xml
+  Sitemap:https://vinitservers.ml/sitemap.xml?redirect=false&start-index=1&max-results=500
