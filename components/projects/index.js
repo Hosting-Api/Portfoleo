@@ -25,7 +25,7 @@ const projects = [
     title: "E-Commerce Store Using Wordpress",
     desc: "A working Wordpress website for E-Commerce Store.Both customers and seller would get order notifications and details via mail",
     
-    coverUrl: "/sneakerheads.png",
+    coverUrl: "/sneaker.png",
     
     demoLink: "http://www.sneakerheadshub.online/",
     tags: ["Wordpress", "Elementor", "Woocommerce"],
