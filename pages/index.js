@@ -13,7 +13,7 @@ export default function Home() {
           content="About Vinit Patel"
         />
         <meta name="keywords" content="Next.js" />
-    
+    <link rel="canonical" href="https://vinitservers.ml/#about" />
         
         <link rel="icon" href="/favicon.ico" />
       </Head>
