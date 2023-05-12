@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <title>Vinit Patel - Portfolio</title>
     <meta name="google-site-verification" content="Fp6rZx9_R5lCi1zABXUh5pdevWK-T790siAH9KxF57I" />
-    <meta name="description" content="Vinit Patel's portfolio " />
+    <meta name="Description" content="Vinit Patel's portfolio " />
     <meta
           property="og:description"
           content="About Vinit Patel"
