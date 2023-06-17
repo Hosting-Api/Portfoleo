@@ -22,7 +22,7 @@ export default function Home() {
       <About />
       <Projects />
       <Experiences />
-      <Acheivements />
+      <Achievements />
       <Footer />
     </div>
   );
