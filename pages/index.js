@@ -1,5 +1,6 @@
 import Head from "next/head";
-import { Hero, About, Projects, Experiences, Achievements, Footer } from "../components";
+import { Hero, About, Projects, Experiences, Footer } from "../components";
+import Achievements from "../components/achievements";
 
 export default function Home() {
   return (
