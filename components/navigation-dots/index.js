@@ -1,7 +1,7 @@
 import Link from "next/link";
 import usePath from "../../hooks/usePath";
 
-const menuItems = ["home", "about", "projects", "experiences", "contact"];
+const menuItems = ["home", "about", "projects", "experiences","achievements", "contact"];
 
 const NavigationDots = () => {
 
