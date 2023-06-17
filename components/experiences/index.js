@@ -3,13 +3,28 @@ import { AppWrap, MotionWrap } from "../wrapper";
 
 const ExperienceList = [
   
+    //  {
+    //    title: "Fresher",
+    //    company: "Student",
+    //    duration: "Presently",
+    //    desc: "Currently, I don't have professional experience but I have Skills and worked on ",
+    //    tags: ["Java", "C", "C++", "Python", "React.js", "Next.js", "JavaScript", "Php", "Bash", "Html", "CSS",  "Bootstrap", "WordPress" ],
+    //  },
+
      {
-       title: "Fresher",
-       company: "Student",
-       duration: "Presently",
-       desc: "Currently, I don't have professional experience but I have Skills and worked on ",
-       tags: ["Java", "C", "C++", "Python", "React.js", "Next.js", "JavaScript", "Php", "Bash", "Html", "CSS",  "Bootstrap", "WordPress" ],
-     }
+       title: "Freelance Web Developer for Jalaram Graphics",
+       company: "Jalaram Graphics",
+       duration: "1 week",
+       desc: "Developed Website For Jalaram Graphics, (A local business) using",
+       tags: ["Html", "CSS", "JavaScript", "Php", "Bootstrap" ],
+     },
+     {
+      title: "Worked as a freelance Ethical Hacker",
+      company: "Web Bazaar",
+      duration: "1 week",
+      desc: "Secured St Martha's College Of Nursing Website, (A product of Web Bazaar) using my skills",
+      tags: [ "Cyber Security"],
+    }
 ];
 
 const Experiences = () => {
