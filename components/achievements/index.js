@@ -6,7 +6,6 @@ const achievements = [
 
   {
     title: "Letter Of Appreciaation ",
-    // desc: "Python Programs  for Beginners",
     coverUrl: "/img23422.png",
     demoLink: "/img23422.png",
     tags: ["June 2023"],
@@ -14,8 +13,6 @@ const achievements = [
    
   {
     title: "Appreciation Certificate",
-    // desc: "A website for students to get information about the courses offered by any Organization.",
-    //coverUrl: "/quicklearn.png",
     coverUrl: "/img23652.png",
     demoLink: "/img23652.png",
     tags: ["June 2023"],
@@ -23,7 +20,6 @@ const achievements = [
   
   {
     title: "Microsoft Certification",
-    // desc: "Java Programs  for Beginners.",
     coverUrl: "/img23912.png",
     demoLink: "/img23912.png",
     tags: ["May 2022"],
