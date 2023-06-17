@@ -4,7 +4,7 @@ import { RiMenu3Fill } from 'react-icons/ri';
 import { useState, useEffect } from 'react';
 import usePath from "../../hooks/usePath";
 import Image from "next/image";
-const menuItems = ['home', 'about', 'projects', 'experiences', "achievements", 'contact'];
+const menuItems = ['home', 'about', 'projects', 'experiences', 'achievements', 'contact'];
 
 const Navbar = () => {
 
