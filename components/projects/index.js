@@ -12,15 +12,15 @@ const projects = [
   //   tags: ["Flutter", "Dart", "GetX", "REST API"],
   // },
   
-  {
-    title: "Education Website",
-    desc: "A website for students to get information about the courses offered by any Organization.",
-    //coverUrl: "/quicklearn.png",
-    coverUrl: "/quicklearn.png",
-    // githubLink: "https://github.com/Vinit-070/",
-    demoLink: "/quicklearn.png",
-    tags: ["Html", "Css", "Js", "Bootstrap"],
-  },
+  // {
+  //   title: "Education Website",
+  //   desc: "A website for students to get information about the courses offered by any Organization.",
+  //   //coverUrl: "/quicklearn.png",
+  //   coverUrl: "/quicklearn.png",
+  //   // githubLink: "https://github.com/Vinit-070/",
+  //   demoLink: "/quicklearn.png",
+  //   tags: ["Html", "Css", "Js", "Bootstrap"],
+  // },
   {
     title: "E-Commerce Store Using Wordpress",
     desc: "A working Wordpress website for E-Commerce Store.Both customers and seller would get order notifications and details via mail",
