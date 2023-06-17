@@ -21,6 +21,7 @@ export default function Home() {
       <About />
       <Projects />
       <Experiences />
+      <Acheivements />
       <Footer />
     </div>
   );
