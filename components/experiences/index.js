@@ -11,6 +11,14 @@ const ExperienceList = [
     //    tags: ["Java", "C", "C++", "Python", "React.js", "Next.js", "JavaScript", "Php", "Bash", "Html", "CSS",  "Bootstrap", "WordPress" ],
     //  },
 
+      {
+       title: "Device Tester for NOTHING ",
+       company: "NOTHING",
+       duration: "Currently",
+       desc: "Tested and Reported many Bugs in NOTHING Phone (2)",
+       tags: ["Tested Device Performence", "Comparing With Other Devices" ],
+     },
+
      {
        title: "Freelance Web Developer for Jalaram Graphics",
        company: "Jalaram Graphics",
