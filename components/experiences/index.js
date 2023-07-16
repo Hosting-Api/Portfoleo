@@ -16,7 +16,7 @@ const ExperienceList = [
        company: "NOTHING",
        duration: "Currently",
        desc: "Tested and Reported many Bugs in NOTHING Phone (2)",
-       tags: ["Tested Device Performence", "Comparing With Other Devices" ],
+       tags: ["Performence", "Security", "User Experience", "Connectivity" ],
      },
 
      {
