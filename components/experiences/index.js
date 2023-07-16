@@ -14,7 +14,7 @@ const ExperienceList = [
       {
        title: "Device Tester for NOTHING ",
        company: "NOTHING",
-       duration: "Currently",
+       duration: "currently",
        desc: "Tested and Reported many Bugs in NOTHING Phone (2)",
        tags: ["Performence", "Security", "User Experience", "Connectivity" ],
      },
