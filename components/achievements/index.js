@@ -5,6 +5,13 @@ import Image from 'next/image';
 const achievements = [
 
   {
+    title: "Certification from Cisco ",
+    coverUrl: "/img23707.png",
+    demoLink: "/img23707.png",
+    tags: ["September 2023"],
+  },
+
+  {
     title: "Letter Of Appreciaation ",
     coverUrl: "/img23422.png",
     demoLink: "/img23422.png",
